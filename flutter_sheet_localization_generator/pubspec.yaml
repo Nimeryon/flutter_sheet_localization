@@ -17,15 +17,11 @@ dependencies:
   code_builder: ^4.0.0
   dart_style: ^2.0.0 
   source_gen: ^1.0.0
-  flutter_sheet_localization:
-    git:
-      url: https://github.com/Nimeryon/flutter_sheet_localization.git
-      ref: update-intl-0.18.1
-      path: flutter_sheet_localization
+  flutter_sheet_localization: ^5.1.1
   build: ^2.0.0
-  analyzer: ^1.4.0
+  analyzer: ^6.3.0
   collection: ^1.15.0
-  intl: ^0.18.1
+  intl: ^0.17.0
   localization_builder: ^0.15.7
 
 dev_dependencies:
